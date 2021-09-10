@@ -11,7 +11,12 @@
   [E-mail](#E-mail)
 
 ## Description:
-* A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+* A command-line application allows users to:
+    * Add departments, role, employees
+    * View departments, role, employees
+    * Update employee roles
+    * View employees by manager
+    * Delete department, roles, employees
 
 ## User Story:
 * As a business owner, I want to be able to view and manage the departments, roles, and employees in my company so that I can organize and plan my business.
