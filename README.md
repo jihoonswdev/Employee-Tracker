@@ -27,7 +27,7 @@
 ## Usage:
 * This application will allow users to view, add, and edit employees, roles, departments, and managers.
 
-* View walk through video here: ()
+* View walk through video here: (https://drive.google.com/file/d/1VBzqmRi9be3MOOV1hJbFTZuVKBbIC20B/view)
 
 ## License:
 * This project is licensed under MIT 
